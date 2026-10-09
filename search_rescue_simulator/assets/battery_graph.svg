@@ -1,0 +1,41 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 390">
+<rect width="780" height="390" rx="20" fill="#0c1424"/>
+<text x='48' y='44' fill='#f5f8ff' font-size='24' font-weight='bold'>BATTERY LEVEL BY MISSION STEP</text>
+<line x1='75' y1='320' x2='720' y2='320' stroke='#2b3b53'/>
+<text x='60' y='325' text-anchor='end' fill='#94abc9' font-size='12'>0</text>
+<line x1='75' y1='260' x2='720' y2='260' stroke='#2b3b53'/>
+<text x='60' y='265' text-anchor='end' fill='#94abc9' font-size='12'>25</text>
+<line x1='75' y1='200' x2='720' y2='200' stroke='#2b3b53'/>
+<text x='60' y='205' text-anchor='end' fill='#94abc9' font-size='12'>50</text>
+<line x1='75' y1='140' x2='720' y2='140' stroke='#2b3b53'/>
+<text x='60' y='145' text-anchor='end' fill='#94abc9' font-size='12'>75</text>
+<line x1='75' y1='80' x2='720' y2='80' stroke='#2b3b53'/>
+<text x='60' y='85' text-anchor='end' fill='#94abc9' font-size='12'>100</text>
+<polyline points='75,80 146.667,89.3338 218.333,102.534 290,115.734 361.667,128.934 433.333,142.134 505,155.334 576.667,168.534 648.333,181.734 720,220.218 ' fill='none' stroke='#3fe0c5' stroke-width='4'/>
+<circle cx='75' cy='80' r='5' fill='#e8f8ff'/>
+<text x='75' y='345' text-anchor='middle' fill='#94abc9' font-size='11'>0</text>
+<circle cx='146.667' cy='89.3338' r='5' fill='#e8f8ff'/>
+<text x='146.667' y='345' text-anchor='middle' fill='#94abc9' font-size='11'>1</text>
+<circle cx='218.333' cy='102.534' r='5' fill='#e8f8ff'/>
+<text x='218.333' y='345' text-anchor='middle' fill='#94abc9' font-size='11'>2</text>
+<circle cx='290' cy='115.734' r='5' fill='#e8f8ff'/>
+<text x='290' y='345' text-anchor='middle' fill='#94abc9' font-size='11'>3</text>
+<circle cx='361.667' cy='128.934' r='5' fill='#e8f8ff'/>
+<text x='361.667' y='345' text-anchor='middle' fill='#94abc9' font-size='11'>4</text>
+<circle cx='433.333' cy='142.134' r='5' fill='#e8f8ff'/>
+<text x='433.333' y='345' text-anchor='middle' fill='#94abc9' font-size='11'>5</text>
+<circle cx='505' cy='155.334' r='5' fill='#e8f8ff'/>
+<text x='505' y='345' text-anchor='middle' fill='#94abc9' font-size='11'>6</text>
+<circle cx='576.667' cy='168.534' r='5' fill='#e8f8ff'/>
+<text x='576.667' y='345' text-anchor='middle' fill='#94abc9' font-size='11'>7</text>
+<circle cx='648.333' cy='181.734' r='5' fill='#e8f8ff'/>
+<text x='648.333' y='345' text-anchor='middle' fill='#94abc9' font-size='11'>8</text>
+<circle cx='720' cy='220.218' r='5' fill='#e8f8ff'/>
+<text x='720' y='345' text-anchor='middle' fill='#94abc9' font-size='11'>9</text>
+
+<text x="390" y="375" text-anchor="middle"
+ fill="#94abc9" font-size="13">
+Mission step
+</text>
+</svg>

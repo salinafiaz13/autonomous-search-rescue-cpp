@@ -1,0 +1,87 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 560">
+<rect width="780" height="560" rx="20" fill="#0c1424"/>
+<text x="45" y="43" fill="#f5f8ff" font-size="24"
+ font-family="Arial" font-weight="bold">
+SEARCH &amp; RESCUE | MISSION ROUTE
+</text>
+<text x="45" y="68" fill="#a7b8d0" font-size="13"
+ font-family="Arial">
+Simulated coordinates - search route and target
+</text>
+<line x1='90' y1='485' x2='590' y2='485' stroke='#2b3b53'/>
+<line x1='90' y1='85' x2='90' y2='485' stroke='#2b3b53'/>
+<text x='90' y='510' text-anchor='middle' fill='#8ea5c2' font-size='12'>0</text>
+<text x='67' y='490' text-anchor='end' fill='#8ea5c2' font-size='12'>0</text>
+<line x1='90' y1='385' x2='590' y2='385' stroke='#2b3b53'/>
+<line x1='190' y1='85' x2='190' y2='485' stroke='#2b3b53'/>
+<text x='190' y='510' text-anchor='middle' fill='#8ea5c2' font-size='12'>10</text>
+<text x='67' y='390' text-anchor='end' fill='#8ea5c2' font-size='12'>10</text>
+<line x1='90' y1='285' x2='590' y2='285' stroke='#2b3b53'/>
+<line x1='290' y1='85' x2='290' y2='485' stroke='#2b3b53'/>
+<text x='290' y='510' text-anchor='middle' fill='#8ea5c2' font-size='12'>20</text>
+<text x='67' y='290' text-anchor='end' fill='#8ea5c2' font-size='12'>20</text>
+<line x1='90' y1='185' x2='590' y2='185' stroke='#2b3b53'/>
+<line x1='390' y1='85' x2='390' y2='485' stroke='#2b3b53'/>
+<text x='390' y='510' text-anchor='middle' fill='#8ea5c2' font-size='12'>30</text>
+<text x='67' y='190' text-anchor='end' fill='#8ea5c2' font-size='12'>30</text>
+<line x1='90' y1='85' x2='590' y2='85' stroke='#2b3b53'/>
+<line x1='490' y1='85' x2='490' y2='485' stroke='#2b3b53'/>
+<text x='490' y='510' text-anchor='middle' fill='#8ea5c2' font-size='12'>40</text>
+<text x='67' y='90' text-anchor='end' fill='#8ea5c2' font-size='12'>40</text>
+<line x1='590' y1='85' x2='590' y2='485' stroke='#2b3b53'/>
+<text x='590' y='510' text-anchor='middle' fill='#8ea5c2' font-size='12'>50</text>
+<circle cx='140' cy='435' r='5' fill='#4b5a73'/>
+<circle cx='240' cy='435' r='5' fill='#4b5a73'/>
+<circle cx='340' cy='435' r='5' fill='#4b5a73'/>
+<circle cx='440' cy='435' r='5' fill='#4b5a73'/>
+<circle cx='540' cy='435' r='5' fill='#4b5a73'/>
+<circle cx='540' cy='335' r='5' fill='#4b5a73'/>
+<circle cx='440' cy='335' r='5' fill='#4b5a73'/>
+<circle cx='340' cy='335' r='5' fill='#4b5a73'/>
+<circle cx='240' cy='335' r='5' fill='#4b5a73'/>
+<circle cx='140' cy='335' r='5' fill='#4b5a73'/>
+<circle cx='140' cy='235' r='5' fill='#4b5a73'/>
+<circle cx='240' cy='235' r='5' fill='#4b5a73'/>
+<circle cx='340' cy='235' r='5' fill='#4b5a73'/>
+<circle cx='440' cy='235' r='5' fill='#4b5a73'/>
+<circle cx='540' cy='235' r='5' fill='#4b5a73'/>
+<circle cx='540' cy='135' r='5' fill='#4b5a73'/>
+<circle cx='440' cy='135' r='5' fill='#4b5a73'/>
+<circle cx='340' cy='135' r='5' fill='#4b5a73'/>
+<circle cx='240' cy='135' r='5' fill='#4b5a73'/>
+<circle cx='140' cy='135' r='5' fill='#4b5a73'/>
+<line x1='90' y1='485' x2='140' y2='435' stroke='#3fe0c5' stroke-width='4'/>
+<line x1='140' y1='435' x2='240' y2='435' stroke='#3fe0c5' stroke-width='4'/>
+<line x1='240' y1='435' x2='340' y2='435' stroke='#3fe0c5' stroke-width='4'/>
+<line x1='340' y1='435' x2='440' y2='435' stroke='#3fe0c5' stroke-width='4'/>
+<line x1='440' y1='435' x2='540' y2='435' stroke='#3fe0c5' stroke-width='4'/>
+<line x1='540' y1='435' x2='540' y2='335' stroke='#3fe0c5' stroke-width='4'/>
+<line x1='540' y1='335' x2='440' y2='335' stroke='#3fe0c5' stroke-width='4'/>
+<line x1='440' y1='335' x2='340' y2='335' stroke='#3fe0c5' stroke-width='4'/>
+<line x1='340' y1='335' x2='90' y2='485' stroke='#ffc857' stroke-width='4' stroke-dasharray='8 6'/>
+<circle cx='340' cy='335' r='10' fill='#ff5b70' stroke='#ffacb6' stroke-width='2'/>
+<circle cx='90' cy='485' r='9' fill='#63aaff' stroke='#e0f0ff' stroke-width='2'/>
+
+<text x="617" y="124" fill="#f5f8ff"
+ font-size="17" font-weight="bold">LEGEND</text>
+
+<circle cx="630" cy="155" r="6" fill="#63aaff"/>
+<text x="648" y="160" fill="#d6e2f3">Home</text>
+
+<circle cx="630" cy="185" r="6" fill="#ff5b70"/>
+<text x="648" y="190" fill="#d6e2f3">Target</text>
+
+<line x1="618" y1="214" x2="641" y2="214"
+ stroke="#3fe0c5" stroke-width="4"/>
+<text x="650" y="219" fill="#d6e2f3">Search</text>
+
+<line x1="618" y1="246" x2="641" y2="246"
+ stroke="#ffc857" stroke-width="4"
+ stroke-dasharray="7 5"/>
+<text x="650" y="251" fill="#d6e2f3">Return</text>
+
+<text x="45" y="540" fill="#788da9" font-size="12">
+Educational simulation - not real aircraft navigation
+</text>
+</svg>
